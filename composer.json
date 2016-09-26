@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "instantjay\\ginotaphp\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "6.*"
+    }
+}
