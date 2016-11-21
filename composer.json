@@ -1,5 +1,5 @@
 {
-    "name": "Ginota PHP API Wrapper",
+    "name": "instantjay/ginotaphp",
     "description": "Unofficial API-wrapper for Ginota.com's text messaging service.",
     "license": "GNU GPL 3",
     "keywords": ["SMS", "Text Message", "Ginota", "Wrapper"],
